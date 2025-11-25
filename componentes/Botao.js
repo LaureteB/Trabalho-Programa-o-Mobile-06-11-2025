@@ -12,7 +12,7 @@ export default function MeuBotao() {
         style={styles.button}
         onPress={handlePress}
       >
-        <Text style={styles.buttonText}>Clique Aqui</Text>
+        <Text style={styles.buttonText}>SEGUIR+</Text>
       </TouchableOpacity>
     </View>
   );

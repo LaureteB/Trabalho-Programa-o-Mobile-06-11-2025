@@ -15,13 +15,14 @@ export default function FotoPerfil() {
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1, // Isso faz com que o contêiner ocupe toda a altura disponível da tela
+        flex: 1, // contêiner ocupe toda a altura disponível da tela
         alignItems: 'center', // Centraliza o conteúdo (a imagem) horizontalmente
     },
     imagemPerfil: {
         width: 100,
         height: 100,
-        borderRadius: 50px,
-        marginBottom: 10,
+        borderRadius: 200,
+        marginBottom: 200,
+        gap: 20,
     },
 });
