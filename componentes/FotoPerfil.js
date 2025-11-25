@@ -1,11 +1,27 @@
 import React from "react";
-import {Image} from "react-native";
+import { Image, View, StyleSheet } from "react-native";
 
-export default function FotoPerfil(){
-    return(
-        <Image
-            source={require('../img/perfil0.png')}
-            style={{width:100, height:100, borderRadius:50, marginBottom:10, alignItems:'center'}}
-        />
+export default function FotoPerfil() {
+    return (
+        // O contêiner View agora gerencia o posicionamento do seu filho (a Image)
+        <View style={styles.container}>
+            <Image
+                source={require('../img/perfil0.png')}
+                style={styles.imagemPerfil}
+            />
+        </View>
     );
- }
+}
+
+const styles = StyleSheet.create({
+    container: {
+        flex: 1, // Isso faz com que o contêiner ocupe toda a altura disponível da tela
+        alignItems: 'center', // Centraliza o conteúdo (a imagem) horizontalmente
+    },
+    imagemPerfil: {
+        width: 100,
+        height: 100,
+        borderRadius: 50px,
+        marginBottom: 10,
+    },
+});

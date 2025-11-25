@@ -25,7 +25,7 @@ const estilos = StyleSheet.create({
         shadowRadius:5,
         elevation:5,
     },
-    foto:{ width:80, height:80, borderRadius:40, marginBottom:10,},
+    foto:{ width:80, height:80, borderRadius:40, marginBottom:10},
     nome:{fontSize:18, fontWeight:'bold'},
     descricao:{fontSize:14, color:'#555', textAlign:'center'}
 });

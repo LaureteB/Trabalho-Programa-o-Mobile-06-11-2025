@@ -4,9 +4,10 @@ import Titulo from "./componentes/Titulo";
 import Saudacao from "./componentes/Saudacao";
 import FotoPerfil from "./componentes/FotoPerfil";
 import CartaoUsuario from "./componentes/CartaoUsuario";
+import Botao from "./componentes/Botao";
 
 export default function App(){
-  return<ScrollView >
+  return<ScrollView  >
     <Titulo />
     <Saudacao nome='Laura Boeing'/>
     <FotoPerfil />
@@ -16,6 +17,7 @@ export default function App(){
     descricao= 'programador mobile'
     img= 'perfil00'
      />
+     <Botao />
 
     <CartaoUsuario 
     nome='Marta'
