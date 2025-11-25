@@ -1,5 +1,5 @@
 import React from "react";
-import { ScrollView } from "react-native";
+import { ScrollView} from "react-native";
 import Titulo from "./componentes/Titulo";
 import Saudacao from "./componentes/Saudacao";
 import FotoPerfil from "./componentes/FotoPerfil";
@@ -14,29 +14,29 @@ export default function App(){
 
     <CartaoUsuario 
     nome='Jorel'
-    descricao= 'programador mobile'
+    descricao= 'Programador Mobile'
     img= 'perfil00'
      />
      <Botao />
 
     <CartaoUsuario 
     nome='Marta'
-    descricao= 'programadora'
+    descricao= 'Professora'
     img= 'perfil02'
      />
      <Botao />
 
     <CartaoUsuario 
     nome='Marluce'
-    descricao= 'design'
-    img= 'perfil04'
+    descricao= 'Design'
+    img= 'perfil05'
      />
      <Botao />
      
     <CartaoUsuario 
     nome='Robson'
     descricao= 'Mecanico'
-    img= 'perfil05'
+    img= 'perfil04'
      />
      <Botao />
 
@@ -291,28 +291,28 @@ export default function App(){
      <Botao />
      
      <CartaoUsuario 
-    nome='Vitor'
+    nome='Vitoria'
     descricao= 'Jornalista'
     img= 'perfil41'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Vitoria'
+    nome='Vitor'
     descricao= 'Roteirista'
     img= 'perfil42'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='José Marcos'
+    nome='Cristina'
     descricao= 'Engenheiro'
     img= 'perfil43'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Cristina'
+    nome='José Marcos'
     descricao= 'Enfermeiro'
     img= 'perfil44'
      />
@@ -321,28 +321,28 @@ export default function App(){
      <CartaoUsuario 
     nome='Cristiano'
     descricao= 'Administrador'
-    img= 'perfil45'
+    img= 'perfil46'
      />
      <Botao />
 
      <CartaoUsuario 
     nome='Marta'
     descricao= 'Fotógrafo'
-    img= 'perfil46'
+    img= 'perfil47'
      />
      <Botao />
 
      <CartaoUsuario 
     nome='Neymar'
     descricao= 'Engenheiro Elétrico'
-    img= 'perfil47'
+    img= 'perfil48'
      />
      <Botao />
 
      <CartaoUsuario 
     nome='Tais'
     descricao= 'Assistente Administrativo'
-    img= 'perfil48'
+    img= 'perfil49'
      />
      <Botao />
      
@@ -350,28 +350,28 @@ export default function App(){
      <CartaoUsuario 
     nome='Thiago'
     descricao= 'Enfermeiro'
-    img= 'perfil49'
+    img= 'perfil50'
      />
      <Botao />
 
      <CartaoUsuario 
     nome='Junior'
     descricao= 'Dentista'
-    img= 'perfil50'
+    img= 'perfil48'
      />
      <Botao />
 
      <CartaoUsuario 
     nome='Juliana'
     descricao= 'Psicólogo'
-    img= 'perfil51'
+    img= 'perfil52'
      />
      <Botao />
 
      <CartaoUsuario 
     nome='Lucas'
     descricao= 'Nutricionista'
-    img= 'perfil52'
+    img= 'perfil50'
      />
      <Botao />
 
@@ -385,7 +385,7 @@ export default function App(){
      <CartaoUsuario 
     nome='Roberto'
     descricao= 'Engenheiro Aeronáutico'
-    img= 'perfil02'
+    img= 'perfil48'
      />
      <Botao />
 

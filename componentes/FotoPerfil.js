@@ -21,8 +21,8 @@ const styles = StyleSheet.create({
     imagemPerfil: {
         width: 100,
         height: 100,
-        borderRadius: 200,
-        marginBottom: 200,
+        borderRadius: 100,
+        marginBottom: 3000,
         gap: 20,
     },
 });
