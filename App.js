@@ -118,56 +118,56 @@ export default function App(){
      <Botao />
 
      <CartaoUsuario 
-    nome='Mi'
+    nome='Micaela'
     descricao= 'Arquitetura'
     img= 'perfil17'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Michel'
     descricao= 'Astronomia'
     img= 'perfil18'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Albertina'
     descricao= 'Ciência da computação'
     img= 'perfil19'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='José'
     descricao= 'Engenharia civil'
     img= 'perfil20'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Paula'
     descricao= 'Engenharia de petróleo'
     img= 'perfil21'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='André'
     descricao= 'Engenharia de produção'
     img= 'perfil22'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Lucia'
     descricao= 'Engenharia elétrica'
     img= 'perfil23'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Airton'
     descricao= 'Engenharia naval'
     img= 'perfil24'
      />
@@ -176,7 +176,7 @@ export default function App(){
 
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Nicole'
     descricao= 'Matemática'
     img= 'perfil25'
      />
@@ -185,7 +185,7 @@ export default function App(){
 
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Mikael'
     descricao= 'Química'
     img= 'perfil26'
      />
@@ -193,154 +193,154 @@ export default function App(){
 
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Luzia'
     descricao= 'Antropologia'
     img= 'perfil27'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Levi'
     descricao= 'Filosofia'
     img= 'perfil28'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Isis'
     descricao= 'Sociologia'
     img= 'perfil29'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Arnaldo'
     descricao= 'Biblioteconomia'
     img= 'perfil30'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Ferdinanda'
     descricao= 'Direito'
     img= 'perfil31'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Fernando'
     descricao= 'Eventos'
     img= 'perfil32'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Alice'
     descricao= 'Jornalismo'
     img= 'perfil33'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Mateo'
     descricao= 'Relações públicas'
     img= 'perfil34'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Tamires'
     descricao= 'Artes cênicas'
     img= 'perfil35'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Arthur'
     descricao= 'Cinema'
     img= 'perfil36'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Bela'
     descricao= 'Policial Federal'
     img= 'perfil37'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Rian'
     descricao= 'Bombeiro Militar'
     img= 'perfil38'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Thainá'
     descricao= 'Carpinteiro'
     img= 'perfil39'
      />
      <Botao />
      
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Pietro'
     descricao= 'Eletricista'
     img= 'perfil40'
      />
      <Botao />
      
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Vitor'
     descricao= 'Jornalista'
     img= 'perfil41'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Vitoria'
     descricao= 'Roteirista'
     img= 'perfil42'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='José Marcos'
     descricao= 'Engenheiro'
     img= 'perfil43'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Cristina'
     descricao= 'Enfermeiro'
     img= 'perfil44'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Cristiano'
     descricao= 'Administrador'
     img= 'perfil45'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Marta'
     descricao= 'Fotógrafo'
     img= 'perfil46'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Neymar'
     descricao= 'Engenheiro Elétrico'
     img= 'perfil47'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Tais'
     descricao= 'Assistente Administrativo'
     img= 'perfil48'
      />
@@ -348,56 +348,56 @@ export default function App(){
      
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Thiago'
     descricao= 'Enfermeiro'
     img= 'perfil49'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Junior'
     descricao= 'Dentista'
     img= 'perfil50'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Juliana'
     descricao= 'Psicólogo'
     img= 'perfil51'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Lucas'
     descricao= 'Nutricionista'
     img= 'perfil52'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Laura'
     descricao= 'Arquiteto'
     img= 'perfil01'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Roberto'
     descricao= 'Engenheiro Aeronáutico'
     img= 'perfil02'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Zanza'
     descricao= 'Bibliotecário'
     img= 'perfil03'
      />
      <Botao />
 
      <CartaoUsuario 
-    nome='Maicon'
+    nome='Felipe'
     descricao= 'Pedreiro'
     img= 'perfil04'
      />
